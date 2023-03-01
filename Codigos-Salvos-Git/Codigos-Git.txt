@@ -1,0 +1,13 @@
+Codigos-Git
+
+cd -> Entrar na pasta
+ls -> Listar
+git clone (url) -> Clonar repositório
+cd .. -> Retroceder
+mkdir -> Criar Pasta
+echo "..." > "..." -> Criar um arquivo 
+rm -rf -> Deletar tudo na pasta
+git status -> Ver o status
+git add . -> Adicionar tudo
+git commit -m "descrição" -> Enviar commit
+git push origin main -> Enviar para GitHub
